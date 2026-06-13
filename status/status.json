@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 516.097,
+      "http_response_time_ms": 1404.278,
       "resolved_ip": "176.9.172.14"
     },
     {
@@ -42,7 +42,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 256.562,
+      "http_response_time_ms": 318.092,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -58,7 +58,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 140.309,
+      "http_response_time_ms": 50.185,
       "resolved_ip": "172.67.197.14"
     },
     {
@@ -106,8 +106,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 648.8439999999999,
-      "resolved_ip": "172.67.201.137"
+      "http_response_time_ms": 838.5500000000001,
+      "resolved_ip": "104.21.66.65"
     },
     {
       "domain": "raspberry.rs",
@@ -199,7 +199,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 680.336,
+      "http_response_time_ms": 704.673,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -215,7 +215,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 429.154,
+      "http_response_time_ms": 770.4029999999999,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -231,7 +231,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 445.778,
+      "http_response_time_ms": 743.24,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -247,7 +247,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 2831.616,
+      "http_response_time_ms": 921.277,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -263,10 +263,10 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 485.323,
+      "http_response_time_ms": 4303.227,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-06-13 08:54:40",
-  "ip_address": "20.55.223.216"
+  "last_updated": "2026-06-13 11:12:18",
+  "ip_address": "68.220.59.211"
 }
