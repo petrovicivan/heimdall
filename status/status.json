@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 891.774,
+      "http_response_time_ms": 1188.003,
       "resolved_ip": "176.9.172.14"
     },
     {
@@ -42,7 +42,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 365.63800000000003,
+      "http_response_time_ms": 346.66799999999995,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -58,7 +58,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 105.567,
+      "http_response_time_ms": 101.99600000000001,
       "resolved_ip": "172.67.197.14"
     },
     {
@@ -91,7 +91,7 @@
       "ssl_ok": true,
       "http_ok": false,
       "http_response_time_ms": null,
-      "resolved_ip": "104.21.52.180"
+      "resolved_ip": "172.67.202.92"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 932.76,
+      "http_response_time_ms": 1081.473,
       "resolved_ip": "104.21.66.65"
     },
     {
@@ -199,7 +199,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 5028.272,
+      "http_response_time_ms": 4974.5160000000005,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -215,7 +215,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 4666.702,
+      "http_response_time_ms": 664.241,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -231,7 +231,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 4947.246,
+      "http_response_time_ms": 594.429,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -247,7 +247,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 908.3729999999999,
+      "http_response_time_ms": 3075.2419999999997,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -263,10 +263,10 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 841.909,
+      "http_response_time_ms": 741.038,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-06-13 13:53:29",
-  "ip_address": "40.65.61.147"
+  "last_updated": "2026-06-13 15:41:59",
+  "ip_address": "4.246.117.71"
 }
