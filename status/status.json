@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 895.1750000000001,
+      "http_response_time_ms": 1243.813,
       "resolved_ip": "176.9.172.14"
     },
     {
@@ -42,7 +42,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 241.651,
+      "http_response_time_ms": 333.786,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -58,7 +58,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 79.47,
+      "http_response_time_ms": 104.88799999999999,
       "resolved_ip": "104.21.21.82"
     },
     {
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 668.468,
+      "http_response_time_ms": 868.965,
       "resolved_ip": "104.21.66.65"
     },
     {
@@ -199,7 +199,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 650.865,
+      "http_response_time_ms": 712.528,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -215,7 +215,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 4785.24,
+      "http_response_time_ms": 668.553,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -231,7 +231,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 488.194,
+      "http_response_time_ms": 705.9929999999999,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -247,7 +247,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 2173.8,
+      "http_response_time_ms": 4135.018,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -263,10 +263,10 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 489.111,
+      "http_response_time_ms": 708.086,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-06-17 18:13:11",
-  "ip_address": "172.172.87.197"
+  "last_updated": "2026-06-17 21:03:30",
+  "ip_address": "20.168.157.81"
 }
