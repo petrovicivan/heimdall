@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 1243.813,
+      "http_response_time_ms": 969.606,
       "resolved_ip": "176.9.172.14"
     },
     {
@@ -42,7 +42,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 333.786,
+      "http_response_time_ms": 332.494,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -58,8 +58,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 104.88799999999999,
-      "resolved_ip": "104.21.21.82"
+      "http_response_time_ms": 113.593,
+      "resolved_ip": "172.67.197.14"
     },
     {
       "domain": "biciklizam.rs",
@@ -106,8 +106,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 868.965,
-      "resolved_ip": "104.21.66.65"
+      "http_response_time_ms": 892.462,
+      "resolved_ip": "172.67.201.137"
     },
     {
       "domain": "raspberry.rs",
@@ -199,7 +199,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 712.528,
+      "http_response_time_ms": 4311.4039999999995,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -215,7 +215,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 668.553,
+      "http_response_time_ms": 974.444,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -231,7 +231,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 705.9929999999999,
+      "http_response_time_ms": 591.51,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -247,7 +247,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 4135.018,
+      "http_response_time_ms": 1004.0210000000001,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -263,10 +263,10 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 708.086,
+      "http_response_time_ms": 777.178,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-06-17 21:03:30",
-  "ip_address": "20.168.157.81"
+  "last_updated": "2026-06-17 23:21:38",
+  "ip_address": "52.155.33.248"
 }
