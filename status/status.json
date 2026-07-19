@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:48:55"
+      "timestamp": "2026-07-19 22:48:30"
     },
     {
       "domain": "jazas.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:49:00"
+      "timestamp": "2026-07-19 22:48:36"
     },
     {
       "domain": "saobracaj.rs",
@@ -23,7 +23,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 435.906,
+      "http_response_time_ms": 438.123,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -39,18 +39,18 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 186.689,
-      "resolved_ip": "104.21.21.82"
+      "http_response_time_ms": 116.733,
+      "resolved_ip": "172.67.197.14"
     },
     {
       "domain": "biciklizam.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:49:04"
+      "timestamp": "2026-07-19 22:48:39"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:49:05"
+      "timestamp": "2026-07-19 22:48:41"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 553.257,
+      "http_response_time_ms": 347.656,
       "resolved_ip": "172.67.201.137"
     },
     {
       "domain": "raspberry.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:49:07"
+      "timestamp": "2026-07-19 22:48:42"
     },
     {
       "domain": "raspberry.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:49:08"
+      "timestamp": "2026-07-19 22:48:43"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:49:35"
+      "timestamp": "2026-07-19 22:49:15"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:50:07"
+      "timestamp": "2026-07-19 22:49:46"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-19 21:50:08"
+      "timestamp": "2026-07-19 22:49:51"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 654.1080000000001,
+      "http_response_time_ms": 5189.996,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 913.359,
+      "http_response_time_ms": 863.112,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 564.3489999999999,
+      "http_response_time_ms": 612.888,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 952.168,
+      "http_response_time_ms": 1213.708,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 738.585,
+      "http_response_time_ms": 4184.063,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-07-19 21:48:52",
-  "ip_address": "52.165.250.242"
+  "last_updated": "2026-07-19 22:48:27",
+  "ip_address": "20.172.6.64"
 }
