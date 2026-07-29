@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:10:23"
+      "timestamp": "2026-07-29 21:57:41"
     },
     {
       "domain": "jazas.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:10:29"
+      "timestamp": "2026-07-29 21:57:47"
     },
     {
       "domain": "saobracaj.rs",
@@ -19,11 +19,11 @@
         "ns2.istanco.com"
       ],
       "registrar": "Stanco d.o.o.",
-      "http_status": 200,
+      "http_status": null,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 278.708,
+      "http_ok": false,
+      "http_response_time_ms": null,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -39,18 +39,18 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 134.055,
-      "resolved_ip": "104.21.21.82"
+      "http_response_time_ms": 182.611,
+      "resolved_ip": "172.67.197.14"
     },
     {
       "domain": "biciklizam.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:10:33"
+      "timestamp": "2026-07-29 21:57:59"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:10:37"
+      "timestamp": "2026-07-29 21:58:00"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 320.94800000000004,
+      "http_response_time_ms": 546.083,
       "resolved_ip": "172.67.201.137"
     },
     {
       "domain": "raspberry.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:10:38"
+      "timestamp": "2026-07-29 21:58:02"
     },
     {
       "domain": "raspberry.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:10:40"
+      "timestamp": "2026-07-29 21:58:03"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:11:06"
+      "timestamp": "2026-07-29 21:58:35"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:11:38"
+      "timestamp": "2026-07-29 21:59:06"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-07-29 20:11:39"
+      "timestamp": "2026-07-29 21:59:07"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 639.7969999999999,
+      "http_response_time_ms": 714.4390000000001,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 872.97,
+      "http_response_time_ms": 922.2139999999999,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 545.1740000000001,
+      "http_response_time_ms": 475.125,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 853.899,
+      "http_response_time_ms": 870.085,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 704.989,
+      "http_response_time_ms": 598.041,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-07-29 20:10:20",
-  "ip_address": "52.173.13.230"
+  "last_updated": "2026-07-29 21:57:38",
+  "ip_address": "20.29.52.242"
 }
