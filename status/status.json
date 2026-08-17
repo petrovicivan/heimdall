@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-17 17:23:21"
+      "timestamp": "2026-08-17 18:33:51"
     },
     {
       "domain": "jazas.org.rs",
-      "error": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/petrovicivan/heimdall/issues/2/comments (Caused by ResponseError('too many 503 error responses'))",
-      "timestamp": "2026-08-17 17:23:33"
+      "error": "type NoneType doesn't define __round__ method",
+      "timestamp": "2026-08-17 18:33:58"
     },
     {
       "domain": "saobracaj.rs",
@@ -23,7 +23,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 417.037,
+      "http_response_time_ms": 483.173,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -39,18 +39,18 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": false,
-      "http_response_time_ms": 136.073,
-      "resolved_ip": "104.21.21.82"
+      "http_response_time_ms": 126.923,
+      "resolved_ip": "172.67.197.14"
     },
     {
       "domain": "biciklizam.rs",
-      "error": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/petrovicivan/heimdall/issues/4/comments (Caused by ResponseError('too many 503 error responses'))",
-      "timestamp": "2026-08-17 17:23:44"
+      "error": "type NoneType doesn't define __round__ method",
+      "timestamp": "2026-08-17 18:34:02"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-17 17:23:45"
+      "timestamp": "2026-08-17 18:34:03"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 297.753,
-      "resolved_ip": "172.67.201.137"
+      "http_response_time_ms": 774.768,
+      "resolved_ip": "104.21.66.65"
     },
     {
       "domain": "raspberry.rs",
-      "error": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/petrovicivan/heimdall/issues/7/comments (Caused by ResponseError('too many 503 error responses'))",
-      "timestamp": "2026-08-17 17:23:55"
+      "error": "type NoneType doesn't define __round__ method",
+      "timestamp": "2026-08-17 18:34:08"
     },
     {
       "domain": "raspberry.org.rs",
-      "error": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/petrovicivan/heimdall/issues/8/comments (Caused by ResponseError('too many 503 error responses'))",
-      "timestamp": "2026-08-17 17:24:05"
+      "error": "type NoneType doesn't define __round__ method",
+      "timestamp": "2026-08-17 18:34:10"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-17 17:24:35"
+      "timestamp": "2026-08-17 18:34:37"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-17 17:25:02"
+      "timestamp": "2026-08-17 18:35:04"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-17 17:25:03"
+      "timestamp": "2026-08-17 18:35:06"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 465.43800000000005,
+      "http_response_time_ms": 3034.461,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 4507.803,
+      "http_response_time_ms": 1031.314,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 364.59999999999997,
+      "http_response_time_ms": 5200.514,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 747.135,
+      "http_response_time_ms": 2669.007,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 696.3359999999999,
+      "http_response_time_ms": 688.841,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-08-17 17:23:18",
-  "ip_address": "20.109.87.114"
+  "last_updated": "2026-08-17 18:33:47",
+  "ip_address": "13.66.174.88"
 }
