@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:53:47"
+      "timestamp": "2026-09-10 00:48:51"
     },
     {
       "domain": "jazas.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:53:53"
+      "timestamp": "2026-09-10 00:48:58"
     },
     {
       "domain": "saobracaj.rs",
@@ -19,11 +19,11 @@
         "ns2.istanco.com"
       ],
       "registrar": "Stanco d.o.o.",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": false,
-      "http_ok": false,
-      "http_response_time_ms": null,
+      "http_ok": true,
+      "http_response_time_ms": 302.84499999999997,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -39,18 +39,18 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 146.966,
+      "http_response_time_ms": 155.42600000000002,
       "resolved_ip": "172.67.197.14"
     },
     {
       "domain": "biciklizam.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:54:05"
+      "timestamp": "2026-09-10 00:49:04"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:54:06"
+      "timestamp": "2026-09-10 00:49:05"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 29.961000000000002,
-      "resolved_ip": "172.67.201.137"
+      "http_response_time_ms": 47.370000000000005,
+      "resolved_ip": "104.21.66.65"
     },
     {
       "domain": "raspberry.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:54:08"
+      "timestamp": "2026-09-10 00:49:06"
     },
     {
       "domain": "raspberry.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:54:09"
+      "timestamp": "2026-09-10 00:49:08"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:54:39"
+      "timestamp": "2026-09-10 00:49:38"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:55:11"
+      "timestamp": "2026-09-10 00:50:08"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-09 22:55:12"
+      "timestamp": "2026-09-10 00:50:09"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 882.9200000000001,
+      "http_response_time_ms": 701.3009999999999,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 793.089,
+      "http_response_time_ms": 905.443,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 588.5310000000001,
+      "http_response_time_ms": 618.778,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 878.567,
+      "http_response_time_ms": 900.828,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 742.539,
+      "http_response_time_ms": 765.415,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-09-09 22:53:44",
-  "ip_address": "52.161.177.67"
+  "last_updated": "2026-09-10 00:48:46",
+  "ip_address": "128.24.162.7"
 }
