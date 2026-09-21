@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:52:38"
+      "timestamp": "2026-09-21 05:52:15"
     },
     {
       "domain": "jazas.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:52:44"
+      "timestamp": "2026-09-21 05:52:19"
     },
     {
       "domain": "saobracaj.rs",
@@ -19,11 +19,11 @@
         "ns2.istanco.com"
       ],
       "registrar": "Stanco d.o.o.",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": false,
-      "http_ok": false,
-      "http_response_time_ms": null,
+      "http_ok": true,
+      "http_response_time_ms": 252.90200000000002,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -39,18 +39,18 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 139.18900000000002,
-      "resolved_ip": "172.67.197.14"
+      "http_response_time_ms": 140.27100000000002,
+      "resolved_ip": "104.21.21.82"
     },
     {
       "domain": "biciklizam.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:52:56"
+      "timestamp": "2026-09-21 05:52:24"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:52:57"
+      "timestamp": "2026-09-21 05:52:25"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 28.079,
-      "resolved_ip": "172.67.201.137"
+      "http_response_time_ms": 9.745999999999999,
+      "resolved_ip": "104.21.66.65"
     },
     {
       "domain": "raspberry.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:52:58"
+      "timestamp": "2026-09-21 05:52:26"
     },
     {
       "domain": "raspberry.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:53:00"
+      "timestamp": "2026-09-21 05:52:27"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:53:25"
+      "timestamp": "2026-09-21 05:52:54"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:53:54"
+      "timestamp": "2026-09-21 05:53:23"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-21 00:53:56"
+      "timestamp": "2026-09-21 05:53:24"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 2922.8230000000003,
+      "http_response_time_ms": 654.158,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 946.2120000000001,
+      "http_response_time_ms": 827.758,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 643.9789999999999,
+      "http_response_time_ms": 508.436,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 801.346,
+      "http_response_time_ms": 2539.72,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 2724.8579999999997,
+      "http_response_time_ms": 597.823,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-09-21 00:52:34",
-  "ip_address": "57.151.129.56"
+  "last_updated": "2026-09-21 05:52:11",
+  "ip_address": "74.249.78.161"
 }
