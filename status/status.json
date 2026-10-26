@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:46:31"
+      "timestamp": "2026-10-26 03:05:12"
     },
     {
       "domain": "jazas.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:46:37"
+      "timestamp": "2026-10-26 03:05:15"
     },
     {
       "domain": "saobracaj.rs",
@@ -23,7 +23,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 302.01800000000003,
+      "http_response_time_ms": 484.142,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -35,22 +35,22 @@
         "kate.ns.cloudflare.com"
       ],
       "registrar": "Cloudflare, Inc.",
-      "http_status": 202,
+      "http_status": 200,
       "whois_ok": false,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 723.874,
-      "resolved_ip": "172.67.197.14"
+      "http_response_time_ms": 1037.117,
+      "resolved_ip": "104.21.21.82"
     },
     {
       "domain": "biciklizam.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:46:41"
+      "timestamp": "2026-10-26 03:05:21"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:46:42"
+      "timestamp": "2026-10-26 03:05:21"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 54.245000000000005,
-      "resolved_ip": "104.21.66.65"
+      "http_response_time_ms": 60.338,
+      "resolved_ip": "172.67.201.137"
     },
     {
       "domain": "raspberry.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:46:43"
+      "timestamp": "2026-10-26 03:05:23"
     },
     {
       "domain": "raspberry.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:46:45"
+      "timestamp": "2026-10-26 03:05:24"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:47:15"
+      "timestamp": "2026-10-26 03:05:50"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:47:46"
+      "timestamp": "2026-10-26 03:06:17"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-10-25 23:47:47"
+      "timestamp": "2026-10-26 03:06:18"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 3302.123,
+      "http_response_time_ms": 3232.475,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 868.644,
+      "http_response_time_ms": 2523.491,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 3166.013,
+      "http_response_time_ms": 2621.264,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 2896.826,
+      "http_response_time_ms": 3345.719,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": false,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 2799.096,
+      "http_response_time_ms": 726.876,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-10-25 23:46:26",
-  "ip_address": "20.25.151.121"
+  "last_updated": "2026-10-26 03:05:10",
+  "ip_address": "13.86.110.180"
 }
