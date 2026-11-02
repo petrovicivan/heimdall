@@ -3,12 +3,12 @@
     {
       "domain": "jazas.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:39:43"
+      "timestamp": "2026-11-02 01:13:45"
     },
     {
       "domain": "jazas.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:39:47"
+      "timestamp": "2026-11-02 01:13:50"
     },
     {
       "domain": "saobracaj.rs",
@@ -23,7 +23,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 336.326,
+      "http_response_time_ms": 423.17199999999997,
       "resolved_ip": "92.205.108.122"
     },
     {
@@ -35,22 +35,22 @@
         "kate.ns.cloudflare.com"
       ],
       "registrar": "Cloudflare, Inc.",
-      "http_status": 200,
+      "http_status": 202,
       "whois_ok": false,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 546.661,
-      "resolved_ip": "172.64.80.1"
+      "http_response_time_ms": 773.5269999999999,
+      "resolved_ip": "172.67.197.14"
     },
     {
       "domain": "biciklizam.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:39:54"
+      "timestamp": "2026-11-02 01:13:56"
     },
     {
       "domain": "ubuntu.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:39:55"
+      "timestamp": "2026-11-02 01:13:56"
     },
     {
       "domain": "ubuntu.org.rs",
@@ -65,33 +65,33 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 36.841,
-      "resolved_ip": "172.64.80.1"
+      "http_response_time_ms": 49.0,
+      "resolved_ip": "104.21.66.65"
     },
     {
       "domain": "raspberry.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:39:56"
+      "timestamp": "2026-11-02 01:13:58"
     },
     {
       "domain": "raspberry.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:39:57"
+      "timestamp": "2026-11-02 01:13:59"
     },
     {
       "domain": "joomla.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:40:33"
+      "timestamp": "2026-11-02 01:14:30"
     },
     {
       "domain": "joomla.org.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:41:03"
+      "timestamp": "2026-11-02 01:15:00"
     },
     {
       "domain": "obito.rs",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-11-01 21:41:04"
+      "timestamp": "2026-11-02 01:15:02"
     },
     {
       "domain": "zavese.org",
@@ -106,7 +106,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 499.96000000000004,
+      "http_response_time_ms": 689.582,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -122,7 +122,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 2876.369,
+      "http_response_time_ms": 2996.763,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -138,7 +138,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 479.614,
+      "http_response_time_ms": 2225.971,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -154,7 +154,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 649.513,
+      "http_response_time_ms": 956.6400000000001,
       "resolved_ip": "3.125.96.137"
     },
     {
@@ -170,10 +170,10 @@
       "whois_ok": false,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 2114.62,
+      "http_response_time_ms": 3057.67,
       "resolved_ip": "3.125.96.137"
     }
   ],
-  "last_updated": "2026-11-01 21:39:38",
-  "ip_address": "20.220.110.150"
+  "last_updated": "2026-11-02 01:13:42",
+  "ip_address": "20.171.125.129"
 }
